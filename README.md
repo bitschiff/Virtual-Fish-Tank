@@ -1,6 +1,6 @@
 # Virtual-Fish-Tank
 
-This is a school project made in [processing](https://processing.org/) that simulates a virtual pet fish tank.
+This is a school project made in [processing](https://processing.org/) that simulates a virtual fish tank.
 
 
-[A Video Demonstration](https://youtu.be/Na6QaimKpG0)
+[A Video Demonstration](https://youtu.be/NJ0Un-DpDyI)
